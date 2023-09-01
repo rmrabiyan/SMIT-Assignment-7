@@ -55,6 +55,4 @@ alert (bookinfo+book)
 
 document.write("<h1>Yah! I can write HTML content through JAVASCRIPT</h1>")
 
-var end =("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
-
-alert = (end)
+alert ("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
